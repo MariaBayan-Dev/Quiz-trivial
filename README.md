@@ -27,7 +27,7 @@ A simple trivia game project with questions.
 
 ## 🔗 Live Demo
 
-👉 [Linguist Pro](https://linguist-pro-kohl.vercel.app/)
+👉 [Quizz Trivial](https://mariabayan-dev.github.io/Quiz-trivial/)
 
 ## 📸 Preview
 
